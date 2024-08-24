@@ -198,11 +198,11 @@ I am a seasoned AI & Full-stack Developer with over 8 years of experience, speci
   <a
     target="_blank"
     rel="noopener noreferrer"
-    href="https://img.shields.io/badge/RAG-4EA94B?logo=RAG&logoColor=green"
+    href="https://img.shields.io/badge/AI_retrieval_augmented_generation genera-4EA94B?logo=RAG(Retrieval Augmented Generation)&logoColor=green"
     ><img
-      src="https://img.shields.io/badge/RAG-4EA94B?logo=RAG&logoColor=green"
-      alt="AI RAG"
-      data-canonical-src="https://img.shields.io/badge/RAG-4EA94B?logo=RAG&logoColor=white"
+      src="https://img.shields.io/badge/RAG(Retrieval Augmented Generation)-4EA94B?logo=RAG(Retrieval Augmented Generation)&logoColor=green"
+      alt="AI RAG(Retrieval Augmented Generation)"
+      data-canonical-src="https://img.shields.io/badge/RAG(Retrieval Augmented Generation)-4EA94B?logo=RAG(Retrieval Augmented Generation)&logoColor=white"
       style="height: 23px; max-width: auto"
   /></a>
 </p>
